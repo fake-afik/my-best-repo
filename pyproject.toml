@@ -10,7 +10,7 @@ python = "^3.10"
 
 
 [tool.poetry.dependencies.codeflash]
-url = "https://www.dropbox.com/scl/fi/nif03u6oj327bn476h11i/codeflash-0.4.3.post1.dev0-50ba298-py3-none-any.whl?rlkey=uoy9h6wcjtktds84idqjkdmza&dl=1"
+url = "https://www.dropbox.com/scl/fi/o6xuo4vxrizli0nz80jra/codeflash-0.5.0.post95.dev0-a60d62c-py3-none-any.whl?rlkey=7r8gbrp2q5cs5mj8u8cuecju2&dl=1"
 
 [build-system]
 requires = ["poetry-core"]
